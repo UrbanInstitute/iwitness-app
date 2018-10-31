@@ -1,0 +1,24 @@
+[submodule "Externals/Cedar"]
+	path = Externals/Cedar
+	url = https://github.com/pivotal/cedar.git
+[submodule "Specs/Externals/Cedar"]
+	path = Specs/Externals/Cedar
+	url = https://github.com/pivotal/cedar.git
+[submodule "Externals/PivotalCoreKit"]
+	path = Externals/PivotalCoreKit
+	url = https://github.com/pivotal/PivotalCoreKit.git
+[submodule "Externals/deferred"]
+	path = Externals/deferred
+	url = https://github.com/kseebaldt/deferred.git
+[submodule "Spec/Externals/CedarAsync"]
+	path = Spec/Externals/CedarAsync
+	url = https://github.com/cppforlife/CedarAsync.git
+[submodule "Specs/Externals/CedarAsync"]
+	path = Specs/Externals/CedarAsync
+	url = https://github.com/cppforlife/CedarAsync.git
+[submodule "Externals/mixpanel-iphone"]
+	path = Externals/mixpanel-iphone
+	url = https://github.com/mixpanel/mixpanel-iphone.git
+[submodule "Externals/FBTweaks"]
+	path = Externals/FBTweaks
+	url = https://github.com/facebook/Tweaks.git

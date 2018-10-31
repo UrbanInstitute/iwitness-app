@@ -1,0 +1,22 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <AVFoundation/AVFoundation.h>
+    #import <AssetsLibrary/AssetsLibrary.h>
+    #import "SpecHelper.h"
+    #import "Foundation+PivotalSpecHelper.h"
+    #import "UIKit+PivotalSpecHelperStubs.h"
+    #import "UIKit+PivotalSpecHelper.h"
+    #import "KSDeferred.h"
+    #import "NSArray+Randomization.h"
+    #import "WitnessLocalization.h"
+    #import "Foundation+PivotalCore.h"
+    #import "UIKit+PivotalCore.h"
+    #import "UIApplication+SpecHelpers.h"
+#endif

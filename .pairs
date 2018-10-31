@@ -1,0 +1,16 @@
+# This file is managed by Chef!
+# Override node.default["git_pairs_authors"] and node.default["git_pairs_domain"] in attributes/git_pairs.rb to modify.
+
+pairs:
+  apb: Alex Basson; abasson
+  ns: Nathan Sentjens; nsentjens
+  sc: Sam Coward; scoward
+  bc: Brian Croom; bcroom
+  ah: Ashraf Hanafy; ahanafy
+  jb: Jonathan Berger; jonathanpberger
+
+email:
+  prefix: pair
+  domain: pivotallabs.com
+
+global: true

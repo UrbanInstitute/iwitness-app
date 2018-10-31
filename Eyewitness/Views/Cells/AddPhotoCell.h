@@ -1,0 +1,2 @@
+@interface AddPhotoCell : UICollectionViewCell
+@end

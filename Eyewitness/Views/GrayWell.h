@@ -1,0 +1,3 @@
+@interface GrayWell : UIView
+
+@end

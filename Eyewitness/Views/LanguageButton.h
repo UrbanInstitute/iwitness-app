@@ -1,0 +1,3 @@
+@interface LanguageButton : UIButton
+
+@end
